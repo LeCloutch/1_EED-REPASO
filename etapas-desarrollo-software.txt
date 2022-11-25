@@ -1,0 +1,7 @@
+Las distintas etapas de un proceso de software:
+Analisis 
+Diseño 
+Pruebas
+Implementacion
+Despliegue 
+Mantenimiento
